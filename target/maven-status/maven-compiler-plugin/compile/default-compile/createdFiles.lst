@@ -1,0 +1,11 @@
+com\javarticles\dagger\daggerExample\DaggerAppComponent$1.class
+com\javarticles\dagger\daggerExample\DaggerAppComponent.class
+com\javarticles\dagger\daggerExample\App.class
+com\javarticles\dagger\daggerExample\FooModule.class
+com\javarticles\dagger\daggerExample\Foo_Factory.java
+com\javarticles\dagger\daggerExample\FooModule_ProvideBarFactory.java
+com\javarticles\dagger\daggerExample\Foo_Factory.class
+com\javarticles\dagger\daggerExample\Bar.class
+com\javarticles\dagger\daggerExample\FooModule_ProvideBarFactory.class
+com\javarticles\dagger\daggerExample\DaggerAppComponent.java
+com\javarticles\dagger\daggerExample\DaggerAppComponent$Builder.class
