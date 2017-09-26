@@ -4,7 +4,7 @@ import dagger.Module;
 import dagger.Provides;
 
 @Module
-public class FooModule {
+public class BarModule {
     @Provides Bar provideBar() {
         return new Bar();
     }
