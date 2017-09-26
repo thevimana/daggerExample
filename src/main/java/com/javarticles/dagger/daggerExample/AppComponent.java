@@ -2,7 +2,7 @@ package com.javarticles.dagger.daggerExample;
 
 import dagger.Component;
 
-@Component(modules= {FooModule.class})
+@Component(modules= {BarModule.class})
 public interface AppComponent {
     Foo foo();
 }
